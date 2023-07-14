@@ -1,9 +1,14 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
+![SwimingKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=swimingkim&show_icons=true&theme=transparent)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swimingkim&layout=compact)
+
+[![SwimingKim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swimingkim)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SwimingKim/SwimingKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
