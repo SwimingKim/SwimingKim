@@ -4,7 +4,7 @@
 
 <!--END_SECTION:waka-->
 
-![SwimingKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=swimingkim&show_icons=true&theme=default&count_private=true&rank_icon=github)
+![SwimingKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=swimingkim&show_icons=true&theme=default&count_private=true&rank_icon=github&card_width=400)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swimingkim&layout=compact&langs_count=10&card_width=400)
 
