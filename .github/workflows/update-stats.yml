@@ -10,6 +10,17 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
+      - uses: anmol098/waka-readme-stats@master 
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
+          SHOW_PROJECTS: False
+          SHOW_TIMEZONE: False
+          SHOW_LOC_CHART: False
+          COMMIT_BY_ME: True
+          COMMIT_USERNAME: ${{ github.repository_owner }}
+          COMMIT_EMAIL: ${{ secrets.COMMIT_EMAIL }}
       - uses: ravsamhq/notify-slack-action@v2
         if: always()
         with:
@@ -22,14 +33,3 @@ jobs:
           mention_users_when: "failure,warnings"
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-      - uses: anmol098/waka-readme-stats@master 
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
-          SHOW_PROJECTS: False
-          SHOW_TIMEZONE: False
-          SHOW_LOC_CHART: False
-          COMMIT_BY_ME: True
-          COMMIT_USERNAME: ${{ github.repository_owner }}
-          COMMIT_EMAIL: ${{ secrets.COMMIT_EMAIL }}
