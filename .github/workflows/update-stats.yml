@@ -19,6 +19,7 @@ jobs:
           SHOW_TIMEZONE: False
           SHOW_LOC_CHART: True
           COMMIT_BY_ME: True
+          COMMIT_MESSAGE: "Update Github Profile by WakaTime"
           COMMIT_USERNAME: ${{ github.repository_owner }}
           COMMIT_EMAIL: ${{ secrets.COMMIT_EMAIL }}
       - uses: ravsamhq/notify-slack-action@v2
@@ -28,7 +29,7 @@ jobs:
           notification_title: "{workflow} has {status_message}"
           message_format: "{emoji} *{workflow}* {status_message} in <{repo_url}|{repo}>"
           footer: "Linked Repo <{repo_url}|{repo}>"
-          notify_when: "failure"
+          # notify_when: "failure"
           mention_users: "U0160UUNH8S,U0080UUAA9N"
           mention_users_when: "failure,warnings"
         env:
