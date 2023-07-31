@@ -15,7 +15,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # meta
           API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: athul/athul
+          REPOSITORY: swimingkim/swimingkim
           # content
           SHOW_TITLE: true
           SECTION_NAME: waka
