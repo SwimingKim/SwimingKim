@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-297-blue)
-
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2049%20mins-blue)
-
+<div align="center"> 
+  <img src="http://img.shields.io/badge/Profile%20Views-297-blue" />
+  <img src="http://img.shields.io/badge/Code%20Time-75%20hrs%2049%20mins-blue" />
+</div>
 
 <div align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=swimingkim&show_icons=true&theme=default&count_private=true&rank_icon=github&card_width=495" />
-</div>
-
-<div align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swimingkim&layout=compact&langs_count=10&card_width=495" />
 </div>
+
+<p/>
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
