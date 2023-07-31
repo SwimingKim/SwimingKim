@@ -1,11 +1,13 @@
-### Hi there 👋
-
 <div align="center"> 
   <img src="http://img.shields.io/badge/Profile%20Views-297-blue" />
   <img src="http://img.shields.io/badge/Code%20Time-75%20hrs%2049%20mins-blue" />
 </div>
 
 <p/>
+
+<div align="center">
+    <img align="center" src="https://github-contribution-stats.vercel.app/api/?username=swimingkim" />
+</div>
 
 <div align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swimingkim&theme=github" />
