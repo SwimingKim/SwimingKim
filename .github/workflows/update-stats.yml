@@ -16,11 +16,9 @@ jobs:
           UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
           SHOW_PROJECTS: False
           SHOW_TIMEZONE: False
-          SHOW_LOC_CHART: True
-          SHOW_LANGUAGE_PER_REPO: True
-          DEBUG_LOGGING: True
+          SHOW_LOC_CHART: False
+          SHOW_LANGUAGE_PER_REPO: False
           SHOW_SHORT_INFO: False
-          SYMBOL_VERSION: 3
           COMMIT_BY_ME: True
           COMMIT_MESSAGE: "Update Github Profile by WakaTime"
           COMMIT_USERNAME: ${{ github.repository_owner }}

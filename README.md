@@ -64,6 +64,17 @@ CMake                    2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  Last Updated on 2023/07/31 03:03:12 UTC
 <!--END_SECTION:waka-->
 
+![SwimingKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=swimingkim&show_icons=true&theme=default&count_private=true&rank_icon=github&card_width=495)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swimingkim&layout=compact&langs_count=10&card_width=495)
+
+<div align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swimingkim&show_icons=true&theme=default&count_private=true&rank_icon=github&card_width=495" />
+</div>
+<div align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swimingkim&layout=compact&langs_count=10&card_width=495" />
+</div>
+
 <!-- ![SwimingKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=swimingkim&show_icons=true&theme=default&count_private=true&rank_icon=github&card_width=495)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swimingkim&layout=compact&langs_count=10&card_width=495)
