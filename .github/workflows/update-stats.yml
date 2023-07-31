@@ -15,6 +15,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
           SHOW_COMMIT: False
+          SHOW_PROFILE_VIEWS: False
+          SHOW_TOTAL_CODE_TIME: False
+          SHOW_LINES_OF_CODE: True
           SHOW_DAYS_OF_WEEK: False
           SHOW_PROJECTS: False
           SHOW_TIMEZONE: False
