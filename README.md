@@ -8,15 +8,6 @@
 <p/>
 
 <div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swimingkim&theme=github&utcOffset=+9" />
-</div>
-
-<div align="center"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=swimingkim&show_icons=true&theme=default&count_private=true&rank_icon=github&card_width=495" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swimingkim&layout=compact&langs_count=10&card_width=495" />
-</div>
-
-<div align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swimingkim&theme=github" />
 </div>
 
