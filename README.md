@@ -48,22 +48,14 @@ Mac                      10 hrs 43 mins      ████████░░░�
  Last Updated on 2023/07/31 03:16:03 UTC
 <!--END_SECTION:waka-->
 
-![SwimingKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=swimingkim&show_icons=true&theme=default&count_private=true&rank_icon=github&card_width=495)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swimingkim&layout=compact&langs_count=10&card_width=495)
 
 <div align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=swimingkim&show_icons=true&theme=default&count_private=true&rank_icon=github&card_width=495" />
 </div>
+
 <div align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swimingkim&layout=compact&langs_count=10&card_width=495" />
 </div>
-
-<!-- ![SwimingKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=swimingkim&show_icons=true&theme=default&count_private=true&rank_icon=github&card_width=495)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swimingkim&layout=compact&langs_count=10&card_width=495)
-
-[![SwimingKim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swimingkim)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **SwimingKim/SwimingKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
