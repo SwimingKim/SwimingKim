@@ -29,8 +29,8 @@ jobs:
           STOP_AT_OTHER: true
           # commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: main
-          TARGET_PATH: README.md
+          # TARGET_BRANCH: main
+          # TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: ${{ secrets.COMMIT_EMAIL }}
           AUTHOR_NAME: skim
