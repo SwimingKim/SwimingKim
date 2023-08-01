@@ -11,6 +11,12 @@
 
 <p/>
 
+<div align="center">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swimingkim&theme=nord_bright" />
+</div>
+
+<p/>
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -34,11 +40,6 @@ Mac                      10 hrs 43 mins      ████████░░░�
  Last Updated on 2023/07/31 17:05:23 UTC
 <!--END_SECTION:waka-->
 
-<p/>
-
-<div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swimingkim&theme=nord_bright" />
-</div>
 
 <!--
 **SwimingKim/SwimingKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
