@@ -37,7 +37,7 @@ Mac                      10 hrs 43 mins      ████████░░░�
 <p/>
 
 <div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swimingkim&theme=github" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swimingkim&theme=nord_bright" />
 </div>
 
 <!--
