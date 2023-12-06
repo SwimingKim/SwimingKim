@@ -18,21 +18,8 @@
 <p/>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Other                    5 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 2023/12/05 17:06:41 UTC
+ Last Updated on 2023/12/06 17:06:32 UTC
 <!--END_SECTION:waka-->
 
 
