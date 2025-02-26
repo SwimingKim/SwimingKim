@@ -22,17 +22,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 6 hrs 59 mins       █████████████████████████   99.95 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 59 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2025/02/25 17:10:03 UTC
+ Last Updated on 2025/02/26 17:08:12 UTC
 <!--END_SECTION:waka-->
 
 
