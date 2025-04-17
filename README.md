@@ -22,19 +22,17 @@
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 8 mins        █████████████████████████   99.15 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 11 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 11 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2025/04/16 17:08:45 UTC
+ Last Updated on 2025/04/17 17:08:39 UTC
 <!--END_SECTION:waka-->
 
 
