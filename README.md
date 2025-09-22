@@ -22,17 +22,19 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     1 hr 15 mins        ███████████████████░░░░░░   76.34 % 
+Other                    22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2025/09/21 17:07:29 UTC
+ Last Updated on 2025/09/22 17:08:57 UTC
 <!--END_SECTION:waka-->
 
 
